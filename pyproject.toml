@@ -1,0 +1,16 @@
+[project]
+name = "nvidia-rag-llm-course"
+version = "0.1.0"
+description = "Repository to follow the NVIDIA Building RAG agents with LLMS"
+authors = [
+    {name = "None"}
+]
+readme = "README.md"
+requires-python = ">=3.13, <4.0"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
